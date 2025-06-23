@@ -1,0 +1,14 @@
+[
+    {
+        "nome": "Casa Azul",
+        "descricao": "Casa azul de desenho animado",
+        "preco": 1000.0,
+        "imagem_url": null
+    },
+    {
+        "nome": "Casa Azul",
+        "descricao": "Casa azul de desenho animado",
+        "preco": 1000.0,
+        "imagem_url": "https://azcloudnativejamlab01.blob.core.windows.net/produtos/01.jpg"
+    }
+]
